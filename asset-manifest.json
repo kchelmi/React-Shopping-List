@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kchelmi/React-Shopping-List.git/static/css/main.a6afea68.css",
-    "main.js": "/kchelmi/React-Shopping-List.git/static/js/main.214fef25.js",
-    "static/media/food.jpg": "/kchelmi/React-Shopping-List.git/static/media/food.66c51c9bde82ff2e97ab.jpg",
-    "index.html": "/kchelmi/React-Shopping-List.git/index.html",
-    "main.a6afea68.css.map": "/kchelmi/React-Shopping-List.git/static/css/main.a6afea68.css.map",
-    "main.214fef25.js.map": "/kchelmi/React-Shopping-List.git/static/js/main.214fef25.js.map"
+    "main.css": "/kchelmi/React-Shopping-List/static/css/main.63ab3fc6.css",
+    "main.js": "/kchelmi/React-Shopping-List/static/js/main.214fef25.js",
+    "static/media/food.jpg": "/kchelmi/React-Shopping-List/static/media/food.66c51c9bde82ff2e97ab.jpg",
+    "index.html": "/kchelmi/React-Shopping-List/index.html",
+    "main.63ab3fc6.css.map": "/kchelmi/React-Shopping-List/static/css/main.63ab3fc6.css.map",
+    "main.214fef25.js.map": "/kchelmi/React-Shopping-List/static/js/main.214fef25.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6afea68.css",
+    "static/css/main.63ab3fc6.css",
     "static/js/main.214fef25.js"
   ]
 }
