@@ -1,0 +1,10 @@
+.icon:hover {
+  color: #61614c;
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+/* Lidl - Logo color */
+.socialLinks {
+  background-color: #fdf000;
+}
